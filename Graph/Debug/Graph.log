@@ -1,0 +1,27 @@
+﻿  Main.cpp
+C:\Users\Nadya\source\repos\Graph\Graph\Main.cpp(19,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nadya\source\repos\Graph\Graph\Main.cpp(62,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nadya\source\repos\Graph\Graph\Main.cpp(90,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  TGraph.cpp
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(159,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(170,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(175,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(177,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(185,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(196,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(207,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(220,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(232,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(244,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(256,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(305,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(313,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(315,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(331,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(333,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(341,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(348,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(362,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Nadya\source\repos\Graph\Graph\TGraph.cpp(364,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Graph.vcxproj -> C:\Users\Nadya\source\repos\Graph\Debug\Graph.exe

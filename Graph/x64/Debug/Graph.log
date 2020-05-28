@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Nadya\source\repos\Graph\Graph\Main.cpp(20,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nadya\source\repos\Graph\Graph\Main.cpp(52,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Nadya\source\repos\Graph\Graph\Main.cpp(80,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Graph.vcxproj -> C:\Users\Nadya\source\repos\Graph\x64\Debug\Graph.exe
